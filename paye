@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input class="au-paymentMethod" id="new-credit-cardpaymentMethodHOC105" type="radio" name="paymentMethod"
+        value="credit_card" checked="">
+    <label class="credit-cards" for="new-credit-cardpaymentMethodHOC105"><img role="presentation" alt="visa"
+            src="//static.registration.domain.com/206/static/reggie/img/credit-card-visa.svg"><img role="presentation"
+            alt="mastercard"
+            src="//static.registration.domain.com/206/static/reggie/img/credit-card-mastercard.svg"><img
+            role="presentation" alt="discover"
+            src="//static.registration.domain.com/206/static/reggie/img/credit-card-discover.svg"><img
+            role="presentation" alt="amex"
+            src="//static.registration.domain.com/206/static/reggie/img/credit-card-amex.svg"></label>
+</body>
+
+</html>
